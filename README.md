@@ -1,4 +1,4 @@
-# Voice→Email Bot (Telegram)
+**Live bot:** https://t.me/vvoice_email_bot
 
 Надішли voice/audio або текст — отримаєш готовий лист (Subject + тіло) польською/англійською/українською.  
 Працює з **OpenAI**
